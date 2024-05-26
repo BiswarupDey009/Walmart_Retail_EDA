@@ -16,3 +16,5 @@ Sub-category Contribution Analysis: Assess the contribution of different sub-cat
 Market Share Evaluation by Region: Evaluate market share by region to inform resource allocation, expansion strategies, and market penetration efforts.
 
 Category & Sub-category Wise Metrics: Generate detailed insights into performance at a granular level, enabling targeted actions for improvement.
+
+![image](https://github.com/BiswarupDey009/Walmart_Retail_EDA/assets/149142392/a320f5c2-8072-449c-ac47-796f022c0414)
